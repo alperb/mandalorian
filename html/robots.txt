@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: *
+
+User-agent: SUCTF-Player
+Disallow: /aSByZWFsbHkgaGF0ZSBkcm9pZHM=/flag.txt
+
+User-agent: *
+Allow: /
